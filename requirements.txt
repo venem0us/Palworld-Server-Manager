@@ -1,0 +1,5 @@
+PySide6==6.11.2
+paramiko==5.0.0
+discord.py==2.7.1
+Pillow==12.3.0
+tzdata==2026.3

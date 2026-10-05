@@ -1,0 +1,9 @@
+{
+  "parser_repository": "https://github.com/xyuqikzz/Palworld-Save-Editor",
+  "parser_revision": "47fc212b0e77440ece585201ae3956ba8efb8365",
+  "codec_binary_source": "src/ooz.pyd in the same upstream revision",
+  "codec_sha256": "50186faf865775c32c267501b7430b8b67147e67cc5406bb28684c22cccbc7c0",
+  "codec_source_repository": "https://github.com/MRHRTZ/pyooz",
+  "codec_source_revision": "2973bcf022269206ffd9f7741ec889013a48acbc",
+  "codec_source_note": "Upstream codec implementation and recursively pinned submodules; bundled Windows binary is redistributed unmodified from the editor."
+}
