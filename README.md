@@ -1,6 +1,6 @@
 # Palworld Manager for Windows
 
-A native Windows desktop app for managing Palworld on a remote Ubuntu machine over SSH. This is an initial, unsigned **0.2.11** release, built for the installation inspected on 7 September 2026. It is not affiliated with Pocketpair.
+A native Windows desktop app for managing Palworld on a remote Ubuntu machine over SSH. This is an initial, unsigned **0.2.11** release. It is not affiliated with Pocketpair.
 
 ## Changes in 0.2.11
 
